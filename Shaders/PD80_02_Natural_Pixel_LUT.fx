@@ -4,7 +4,7 @@
 
 // Texture name which contains the LUT(s) and the Tile Sizes, Amounts, etc.
 #ifndef PD80_LUT_File_Name
-    #define PD80_LUT_File_Name      "lut.png"
+    #define PD80_LUT_File_Name      "NP_LUT.png"
 #endif
 
 #ifndef PD80_Tile_SizeXY
