@@ -3,7 +3,7 @@
 ### Welcome!
 
 This is my own modified version of the Cinetools LUT shader created by Prod80.
-I've added Preprocessor Definitions support for [my ReShade presets](https://www.patreon.com/c/NaturalPixel).
+I've added Preprocessor Definitions support for [my ReShade presets](https://www.patreon.com/NaturalPixel).
 
 Many thanks to Prod80 for creating all these fantastic shaders and allowing modifications and sharing of them!
 
